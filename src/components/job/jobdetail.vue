@@ -192,9 +192,9 @@ export default {
     },
     initApiUrl(){
         // 线上
-        // let domain="https://"+window.location.host+"/";
+        let domain="https://"+window.location.host+"/";
         // 本地
-        let domain="http://"+window.location.host+"/";
+        // let domain="http://"+window.location.host+"/";
         var str="boss/static/data/joblist.json";
         this.apiUrl=domain+str;
         // console.log(this.apiUrl);

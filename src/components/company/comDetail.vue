@@ -88,9 +88,9 @@ export default {
   methods: {
     // 初始化请求接口
     initApiUrl() {
-      // let domain="https://"+window.location.host+"/";
+      let domain="https://"+window.location.host+"/";
       // 本地
-      let domain = "http://" + window.location.host + "/";
+      // let domain = "http://" + window.location.host + "/";
       let str = "boss/static/data/comdetail.json";
       this.apiUrl = domain + str;
       // console.log(this.apiUrl);

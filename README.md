@@ -44,7 +44,7 @@ npm test
 
 > 三、在线体验
 
-[https://guanjiaying.github.com/vueDemo/boss/#/](https://guanjiaying.github.com/vueDemo/boss/#/)
+[https://guanjiaying.github.io/boss/#/](https://guanjiaying.github.io/boss/#/)
 
 ### License
 
