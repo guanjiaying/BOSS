@@ -153,7 +153,7 @@ export default {
       // let domain="https://"+window.location.host+"/";
       // 本地
       let domain = "http://" + window.location.host + "/";
-      let str = "static/data/city.json";
+      let str = "boss/static/data/city.json";
       this.apiUrl = domain + str;
       // console.log(this.apiUrl);
     },

@@ -44,7 +44,7 @@ npm test
 
 > 三、在线体验
 
-[https://jiucheng-front.github.io/demo01/BOSS/#/](https://jiucheng-front.github.io/demo01/BOSS/#/)
+[https://guanjiaying.github.com/vueDemo/boss/#/](https://guanjiaying.github.com/vueDemo/boss/#/)
 
 ### License
 

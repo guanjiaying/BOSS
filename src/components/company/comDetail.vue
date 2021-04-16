@@ -91,8 +91,7 @@ export default {
       // let domain="https://"+window.location.host+"/";
       // 本地
       let domain = "http://" + window.location.host + "/";
-      // let str = "boss/static/data/comdetail.json";
-      let str = "static/data/comdetail.json";
+      let str = "boss/static/data/comdetail.json";
       this.apiUrl = domain + str;
       // console.log(this.apiUrl);
     },
